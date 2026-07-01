@@ -1,0 +1,12 @@
+# VS Artifacts 
+.vs/ 
+Debug/ 
+Release/ 
+x64/ 
+x86/ 
+*.obj 
+*.exe 
+*.pdb 
+*.ilk 
+*.suo 
+*.user 

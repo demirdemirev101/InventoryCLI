@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="InventoryCLI/InventoryCLI.vcxproj" Id="3e8ff55b-f848-4230-8cef-f053cfd454cd" />
+</Solution>
