@@ -26,5 +26,5 @@ InventoryCLI/
 ```
 
 ## Demo
-![Demo](demo1.png)
-![Demo](demo2.png)
+![Demo1](demo1.png)
+![Demo2](demo2.png)
