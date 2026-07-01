@@ -24,3 +24,7 @@ InventoryCLI/
 ├── Repository.h                     # Generic template container (header-only)
 └── InventoryCLI.cpp                 # Main entry point with interactive menu
 ```
+
+## Demo
+![Demo](demo1.png)
+![Demo](demo2.png)
