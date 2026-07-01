@@ -16,9 +16,9 @@ A C++ console application for inventory management.
 - **References** – Repository passed by reference to menu functions (no unnecessary copying)
 
 ## Project Structure
-InventoryCLI/
-├── Product.h / Product.cpp         # Abstract base class
-├── ToolProduct.h / ToolProduct.cpp  # Derived class (material, warranty months)
-├── MaterialProduct.h / .cpp         # Derived class (weight per unit)
-├── Repository.h                      # Generic template container (header-only)
-└── InventoryCLI.cpp                  # Main entry point with interactive menu
+### InventoryCLI/
+- Product.h / Product.cpp         => Abstract base class
+- ToolProduct.h / ToolProduct.cpp  => Derived class (material, warranty months)
+- MaterialProduct.h / .cpp         => Derived class (weight per unit)
+- Repository.h                      => Generic template container (header-only)
+- InventoryCLI.cpp                  => Main entry point with interactive menu
